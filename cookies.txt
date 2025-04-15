@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.calendly.com	TRUE	/	FALSE	1999999999	__cf_bm	VzCB0R6u27628QXW1ZB1iAMia01qEtPyt_zKbKpJFrs-1744648628-1.0.1.1-izwdVJIvIoCuPM3x01yE5IezgxHEq3S_IMN_uDmZ4LOoiSZ0P4_IBvjYD23mvjvuk5CUfqGmDT774dQuGNtoU_qlpfdPALWTrcgVL6jnCyU
+.calendly.com	TRUE	/	FALSE	1999999999	_cfuvid	rRpMYJIEbYMTtUp4kABK7gUPFmJMbzAkUFs8Z5kQpBQ-1744648628206-0.0.1.1-604800000
+assets.calendly.com	TRUE	/	FALSE	1999999999	SameSite	None
+
